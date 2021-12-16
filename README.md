@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ticia1911
 - 👀 I’m interested in developing web-based systems.
-- 🌱 I’m currently learning html, php, css and java.
+- 🌱 I’m currently learning html, php, css and mysql.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
